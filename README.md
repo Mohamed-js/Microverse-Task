@@ -1,5 +1,5 @@
-# NewYorkTimes---Project-1
-NYtimes article page.
+# Project
+Hello World!.
 
 
 ## Built With
